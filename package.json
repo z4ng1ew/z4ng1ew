@@ -8,7 +8,7 @@
 		"build:prod": "npx webpack --mode=production",
 		"start:server": "npx webpack serve",
 		"format": "node ./node_modules/prettier/bin/prettier.cjs --check --config ./prettier.json ./index.js --log-level warn --write",
-		"lint:check": "npx eslint ./src",
+		"lint:check": "npx eslint ./index.js",
 		"lint:fix": "npx eslint ./src --fix"
 	},
 	"author": "",
