@@ -1,0 +1,184 @@
+Набор тестов для проверки всех указанных опций, включая тесты для несуществующей опции и длинной опции. Также для каждого теста приведены названия файлов и команды для запуска:
+
+### Тесты для опций и длинных опций
+
+1. **Опция `-b` (`--number-nonblank`)**
+   - **Название файла:** `test_number_nonblank.txt`
+   - **Команда:** `./s21_cat -b Tests/test_number_nonblank.txt`
+   - **Команда (длинная опция):** `./s21_cat --number-nonblank Tests/test_number_nonblank.txt`
+
+
+    Ожидаемый результат:
+
+     1
+     2  This is line 2.
+     3
+     4  This is line 4.
+
+2. **Опция `-e` (подразумевает `-v`, отображает конец строки как `$`)**
+   - **Название файла:** `test_display_ends.txt`
+   - **Команда:** `./s21_cat -e Tests/test_display_ends.txt`
+
+   Ожидаемый результат:
+
+   Line 1^M
+   Line 2^M
+   ^M
+
+   
+3. **Опция `-E` (только отображает конец строки как `$`)**
+   - **Название файла:** `test_display_ends_no_v.txt`
+   - **Команда:** `./s21_cat -E Tests/test_display_ends_no_v.txt`
+
+
+   Ожидаемый результат:
+    Line 1$
+    Line 2$
+    $
+
+
+
+
+4. **Опция `-n` (`--number`)**
+   - **Название файла:** `test_number_all.txt`
+   - **Команда:** `./s21_cat -n Tests/test_number_all.txt`
+   - **Команда (длинная опция):** `./s21_cat --number Tests/test_number_all.txt`
+
+
+   Ожидаемый результат:
+
+    1	Line 1
+    2	Line 2
+    3	
+    4	Line 4
+
+
+
+
+
+5. **Опция `-s` (`--squeeze-blank`)**
+   - **Название файла:** `test_squeeze_blank.txt`
+   - **Команда:** `./s21_cat -s Tests/test_squeeze_blank.txt`
+   - **Команда (длинная опция):** `./s21_cat --squeeze-blank Tests/test_squeeze_blank.txt`
+
+
+   Ожидаемый результат:
+
+    Line 1
+
+    Line 4
+
+
+
+
+
+6. **Опция `-t` (подразумевает `-v`, отображает табуляции как `^I`)**
+   - **Название файла:** `test_display_tabs.txt`
+   - **Команда:** `./s21_cat -t Tests/test_display_tabs.txt`
+
+
+
+   Ожидаемый результат:
+    
+    Line 1^Iwith^Itab
+
+
+
+7. **Опция `-T` (только отображает табуляции как `^I`)**
+   - **Название файла:** `test_display_tabs_no_v.txt`
+   - **Команда:** `./s21_cat -T Tests/test_display_tabs_no_v.txt`
+
+
+   Ожидаемый результат:
+
+    Line 1^Iwith^Itab
+
+
+
+### Тест для несуществующей опции
+
+- **Название файла:** `test_invalid_option.txt`
+- **Команда:** `./s21_cat -z Tests/test_invalid_option.txt`
+
+
+    Ожидаемый результат:
+
+    ./s21_cat: invalid option -- 'z'
+
+
+    
+
+### Тест для длинной опции
+
+- **Название файла:** `test_invalid_long_option.txt`
+- **Команда:** `./s21_cat --invalid-option Tests/test_invalid_long_option.txt`
+
+
+    Ожидаемый результат:
+
+    ./s21_cat: unrecognized option '--invalid-option'
+
+
+
+
+
+
+
+
+
+### Пример содержания тестовых файлов
+
+Для демонстрации, можно создать тестовые файлы с примерным содержанием:
+
+1. `test_number_nonblank.txt`
+   ```
+   
+   This is line 2.
+   
+   This is line 4.
+   ```
+
+2. `test_display_ends.txt`
+   ```
+   Line 1
+   Line 2
+   
+   ```
+
+3. `test_display_ends_no_v.txt`
+   ```
+   Line 1
+   Line 2
+   
+   ```
+
+4. `test_number_all.txt`
+   ```
+   Line 1
+   Line 2
+   
+   Line 4
+   ```
+
+5. `test_squeeze_blank.txt`
+   ```
+   Line 1
+   
+   
+   
+   Line 4
+   ```
+
+6. `test_display_tabs.txt`
+   ```
+   Line 1	with	tab
+   ```
+
+7. `test_display_tabs_no_v.txt`
+   ```
+   Line 1	with	tab
+   ```
+
+8. `test_invalid_option.txt` и `test_invalid_long_option.txt` могут быть пустыми, так как тестируются неверные опции.
+
+Эти тесты помогут проверить работу утилиты, имитирующей поведение `cat`, с различными опциями.

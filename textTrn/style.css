@@ -1,0 +1,117 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  margin-left: calc(50% - 1240px / 2);
+  margin-right: calc(50% - 1240px / 2);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.box {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  font-family: "Jacquard 12", system-ui;
+}
+.header {
+}
+.textTittle {
+  margin-bottom: 20px;
+}
+
+.text {
+  width: 620px;
+  height: 120px;
+  resize: none;
+  border-color: burlywood;
+  color: rgb(32, 32, 34);
+  padding: 5px;
+}
+.btn {
+  margin-top: 20px;
+  background-color: antiquewhite;
+  padding: 10px;
+  border-color: burlywood;
+}
+.redyText {
+  display: none;
+}
+.textTrain {
+  width: 620px;
+  height: 120px;
+  resize: none;
+  border-color: burlywood;
+  color: rgb(32, 32, 34);
+  padding: 5px;
+}
+.textTrain {
+  width: 620px;
+  height: 120px;
+  resize: none;
+  border-color: burlywood;
+  color: rgb(32, 32, 34);
+  padding: 5px;
+  display: flex;
+  text-align: center;
+  outline: none;
+}
+.textTrainPrint {
+  white-space: pre; /* Сохранение пробелов и предотвращение переноса текста */
+  width: 256px; /* Установка ширины поля */
+  height: 20px; /* Установка высоты поля */
+  resize: none; /* Отключение возможности изменения размеров */
+  border: 1px solid burlywood; /* Цвет и ширина границы */
+  color: rgb(32, 32, 34); /* Цвет текста */
+  padding: 5px; /* Внутренние отступы */
+  margin-bottom: 20px; /* Отступ снизу */
+  margin-top: 20px; /* Отступ сверху */
+  background-color: antiquewhite; /* Цвет фона */
+  overflow: hidden; /* Скрытие переполненного текста */
+  /* Включение отступов в общую ширину и высоту */
+  border-left: none;
+  padding-left: 0;
+  font-size: 20px;
+  outline: none;
+}
+.textTrainLeft {
+  white-space: pre; /* Сохранение пробелов и предотвращение переноса текста */
+  width: 256px;
+  height: 20px;
+  resize: none;
+  border: 1px solid burlywood;
+
+  padding: 5px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  background-color: antiquewhite;
+  overflow: hidden;
+  display: flex;
+  font-size: 20px;
+  border-right: none;
+  color: rgb(168, 138, 99);
+  padding-right: 0;
+  outline: none;
+  text-align: right;
+}
+.boxTrain {
+  display: none;
+}
+.boxTrainFlex {
+  display: flex;
+  align-items: center;
+}
+.boxfinish {
+  display: none;
+}
+.boxfinishFlex {
+  display: flex;
+  margin-top: 20px;
+  text-align: center;
+
+  flex-direction: column;
+}
+.numberOfMistakes {
+  margin-top: 20px;
+}
