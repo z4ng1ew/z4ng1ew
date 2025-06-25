@@ -22,7 +22,7 @@
 <img align="right" src="![visitors](https://visitor-badge.laobi.icu/badge?page_id=z4ng1ew.z4ng1ew)" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zangiev+Movsar!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" />
 </h1>
 
 <h3 align="center">Software Engineer | DevSecOps | InfoSec</h3>
