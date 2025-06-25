@@ -28,12 +28,6 @@
 
 ---
 <div align="center"> 
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://t.me/z4ng1ew" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/%D0%BA-%D0%BF-85670b365/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
