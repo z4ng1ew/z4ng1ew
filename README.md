@@ -42,8 +42,8 @@
 
 ### 🛠️ Мои проекты
 
-#### 🔍 [Trivy + Bandit + Flask](https://github.com/z4ng1ew/Trivy-Flask-App-With-Bandit)
-> Учебное приложение для Flask с Trivy и Bandit: безопасная разработка и CI/CD сканирование.
+#### 🔍 [Trivy + Bandit + Flask + TruffleHog](https://github.com/z4ng1ew/Trivy-Flask-App-With-Bandit-TruffleHog)
+> Учебное приложение для Flask с Trivy, TruffleHog и Bandit: безопасная разработка и CI/CD сканирование.
 
 #### 🔒 [SecureOps](https://github.com/z4ng1ew/SecureOps)
 > **Full-stack DevSecOps проект**: микросервисы в Docker, CI/CD пайплайны на GitHub Actions, защита через UFW, Fail2Ban, HTTPS и автоматическое сканирование уязвимостей.
