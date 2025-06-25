@@ -47,7 +47,7 @@
 #### 🔍 [Trivy + Bandit + Flask](https://github.com/z4ng1ew/Trivy-Flask-App-With-Bandit)
 > Учебное приложение для Flask с Trivy и Bandit: безопасная разработка и CI/CD сканирование.
 
-#### 🐚 [Docker-Nginx](https://github.com/z4ng1ew/Docker-Nginx)
+#### 🐳 [Docker-Nginx](https://github.com/z4ng1ew/Docker-Nginx)
 > Проект по созданию и настройке контейнера Docker с nginx и мини-сервером на базе FastCGI, включая анализ безопасности с использованием Dockle и настройку нескольких контейнеров с помощью Docker Compose.
 
 #### 🐚 [Simple Bash Utils](https://github.com/z4ng1ew/C3_SimpleBashUtils-3-develop-src)
