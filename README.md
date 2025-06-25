@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=500&lines=Привет!+👋;DevSecOps+Engineer;Инженер+ИБ" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">DevSecOps • InfoSec • Open Source • Software Engineer</h3>
+<h3 align="center">DevSecOps • InfoSec • Software Engineer</h3>
 
 ---
 
