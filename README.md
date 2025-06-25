@@ -16,7 +16,7 @@
 
 <div align="center">
 
-🎯 DevSecOps инженер из России с юридическим образованием, с опытом full-stack разработчика и специалиста по безопасности.  
+🎯 DevSecOps инженер с опытом full-stack разработчика и специалиста по безопасности и юридическим образованием.
 💼 Работаю ведущим специалистом по информационной безопасности в **Россельхозбанке**  
 🔐 Люблю безопасную разработку, автоматизацию, CI/CD и Linux.  
 📦 Использую Docker, Kubernetes, GitLab CI/CD, Trivy, Bandit, Fail2Ban, MaxPatrol SIEM  
@@ -52,6 +52,9 @@
 #### 🐚 [Simple Bash Utils](https://github.com/z4ng1ew/C3_SimpleBashUtils-3-develop-src)
 > Bash-утилиты на C с нуля. Аналог grep, cat и других, покрытие тестами, CI, анализ valgrind'ом.
 
+#### 🐚 [Simple Bash Utils](https://github.com/z4ng1ew/C3_SimpleBashUtils-3-develop-src)
+> Bash-утилиты на C с нуля. Аналог grep, cat и других, покрытие тестами, CI, анализ valgrind'ом.
+
 ---
 
 ### 📈 Статистика
@@ -64,20 +67,6 @@
 
 ---
 
-### 🐍 Моя активность
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/z4ng1ew/z4ng1ew/output/github-contribution-grid-snake.svg" alt="snake eating my contributions"/>
-</div>
 
----
 
-### ☕ Поддержка
-
-<div align="center">
-<a href='https://t.me/z4ng1ew' target='_blank'>
-  <img height='50' src='https://img.shields.io/badge/Telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white' />
-</a>
-</div>
-
----
