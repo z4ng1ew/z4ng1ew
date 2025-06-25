@@ -58,9 +58,9 @@
 ### 📈 Статистика
 
 <div align="center">
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=z4ng1ew&theme=react&border_radius=10" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=z4ng1ew&show_icons=true&theme=react&count_private=true&hide=contribs&border_radius=10" />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z4ng1ew&hide=html&layout=compact&theme=react&langs_count=8&border_radius=10" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=z4ng1ew&theme=react&border_radius=10"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=z4ng1ew&show_icons=true&theme=react&count_private=true&hide=contribs&border_radius=10"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z4ng1ew&hide=html&layout=compact&theme=react&langs_count=8&border_radius=10"/>
 </div>
 
 ---
