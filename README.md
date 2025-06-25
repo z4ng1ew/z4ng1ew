@@ -55,24 +55,31 @@
 > Bash-утилиты на C с нуля. Аналог grep, cat и других, покрытие тестами, CI, анализ valgrind'ом.
 
 ---
+<h1 align="center">🚀 GitHub Статистика от <a href="https://github.com/z4ng1ew">z4ng1ew</a></h1>
 
-<h1 align="center">📈 Статистика GitHub ⚡</h1>
+<div align="center">
+  
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=z4ng1ew&show_icons=true&count_private=true&include_all_commits=true&hide_rank=false&hide=issues&theme=midnight-purple&custom_title=📊+Моя+GitHub+статистика&locale=ru&border_radius=20" 
+    alt="GitHub Stats" 
+    width="49%" 
+  />
+  
+  <!-- GitHub Streak -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=z4ng1ew&theme=midnight-purple&locale=ru&date_format=M%20j%5B%2C%20Y%5D&border_radius=20" 
+    alt="GitHub Streak" 
+    width="49%" 
+  />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=z4ng1ew&show_icons=true&theme=midnight-purple&count_private=true&hide=contribs&border_radius=15&custom_title=GitHub+Stats&locale=ru&show_stars=true" alt="GitHub Stats" width="450" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=z4ng1ew&theme=midnight-purple&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&locale=ru" alt="GitHub Streak" width="450" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z4ng1ew&hide=html&layout=compact&theme=midnight-purple&langs_count=8&border_radius=15&custom_title=Топ+языки&locale=ru" alt="Top Languages" width="450" />
-</p>
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=z4ng1ew&layout=compact&langs_count=10&theme=midnight-purple&hide=html&custom_title=🧠+Наиболее+используемые+языки&border_radius=20&locale=ru" 
+    alt="Top Languages" 
+    width="60%" 
+  />
+</div>
 
 ---
 
