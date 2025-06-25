@@ -20,9 +20,7 @@
 💼 Работаю ведущим специалистом по информационной безопасности в **Россельхозбанке**  
 🔐 Люблю безопасную разработку, автоматизацию, CI/CD и Linux.  
 📦 Использую Docker, Kubernetes, GitLab CI/CD, Trivy, Bandit, Fail2Ban, MaxPatrol SIEM  
-🎓 Занимаюсь pet-проектами и участвую в CTF  
-📌 GitHub: [github.com/z4ng1ew](https://github.com/z4ng1ew)
-
+🎓 Занимаюсь pet-проектами и участвую в CTF
 </div>
 
 ---
