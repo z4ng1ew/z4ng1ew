@@ -34,7 +34,7 @@
 ### 🧰 Навыки и технологии
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,gitlab,github,ci,react,nodejs,js,ts,c,cpp,python,java,kotlin,postgres,mysql,bash,nginx" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,gitlab,github,react,nodejs,js,ts,c,cpp,python,java,kotlin,postgres,mysql,bash,nginx" />
 </div>
 
 ---
