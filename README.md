@@ -56,19 +56,23 @@
 
 ---
 
-<h2 align="center">📈 Статистика GitHub ⚡</h2>
-<br>
-<div align="center">
-  <a href="https://github.com/z4ng1ew">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=z4ng1ew&show_icons=true&theme=react&count_private=true&hide=contribs&border_radius=10&custom_title=GitHub+Stats&locale=ru&border_color=1F373D" alt="GitHub Stats"/>
+<h1 align="center">📈 Статистика GitHub ⚡</h1>
 
-  <a href="https://github.com/z4ng1ew">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=z4ng1ew&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&locale=ru&border_color=1F373D" alt="GitHub Streak"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=z4ng1ew&show_icons=true&theme=midnight-purple&count_private=true&hide=contribs&border_radius=15&custom_title=GitHub+Stats&locale=ru&show_stars=true" alt="GitHub Stats" width="450" />
+</p>
 
-  <a href="https://github.com/z4ng1ew">
-    <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z4ng1ew&hide=html&layout=compact&theme=react&langs_count=8&border_radius=10&size_weight=0.5&count_weight=0.5&custom_title=Топ+языки&locale=ru&border_color=1F373D"/>
-  </a>
-</div>
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=z4ng1ew&theme=midnight-purple&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&locale=ru" alt="GitHub Streak" width="450" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z4ng1ew&hide=html&layout=compact&theme=midnight-purple&langs_count=8&border_radius=15&custom_title=Топ+языки&locale=ru" alt="Top Languages" width="450" />
+</p>
 
 ---
 
