@@ -25,7 +25,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zangiev+Movsar!;" />
 </h1>
 
-<h3 align="center">Software Engineer | DevSecOps | InfoSec | From Russia with Code 🇷🇺</h3>
+<h3 align="center">Software Engineer | DevSecOps | InfoSec | From Russia with Code U+1F1F7 U+1F1FA</h3>
 
 
 <br/>
