@@ -74,15 +74,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=z4ng1ew&show_icons=true&theme=react&count_private=true&hide=contribs&border_radius=10&custom_title=GitHub+Stats" alt="GitHub Stats"/>
   </a>
 
-  <a href="https://github.com/z4ng1ew">
-  <img height="180em" src="https://streak-stats.demolab.com?user=z4ng1ew&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-  </a>
-
-
-
-  <a href=" https://github.com/z4ng1ew ">
-  <img src="https://github-readme-stats.vercel.app/api?username=z4ng1ew&show_icons=true&theme=dark&include_all_commits=true" alt="GitHub Stats" />
-</a>
 
 
 <a href=" https://github.com/z4ng1ew ">
