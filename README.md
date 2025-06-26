@@ -77,9 +77,7 @@
 
 
 
-<!-- GitHub Overall Stats -->
-<a href=" https://github.com/z4ng1ew ">
-  <img src="https://github-readme-stats.vercel.app/api?username=z4ng1ew&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
+
 </a>
 
 
