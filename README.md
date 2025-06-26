@@ -109,43 +109,9 @@
 
 
 
-## 📊 Моя статистика на GitHub 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">  
-
-  <!-- GitHub Stats -->  
-  <a href=" https://github.com/z4ng1ew ">  
-    <img src="https://github-readme-stats.vercel.app/api?username=z4ng1ew&theme=dracula&show_icons=true" alt="GitHub Stats"/>  
-  </a>  
-
-  <!-- Top Languages -->  
-  <a href=" https://github.com/z4ng1ew ">  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z4ng1ew&theme=dracula&layout=compact&hide=html,shell&langs_count=8" alt="Top Languages"/>  
-  </a>  
-
-  <!-- Activity Calendar -->  
-  <a href=" https://github.com/z4ng1ew ">  
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=z4ng1ew&theme=dracula&hide_border=true" alt="GitHub Activity"/>  
-  </a>  
-
-  <!-- Longest & Current Streak -->  
-  <a href=" https://github.com/z4ng1ew ">  
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=z4ng1ew&theme=dracula&streak_label=Longest" alt="Longest Streak"/>  
-  </a>  
-  <a href=" https://github.com/z4ng1ew ">  
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=z4ng1ew&theme=dracula&fire=25" alt="Current Streak"/>  
-  </a>  
-
-  <!-- DevSecOps Tools -->  
-  <div align="center" style="margin-top: 20px;">
-    <img src=" https://img.shields.io/badge/Docker-2496ED?logo=docker" />
-    <img src=" https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes" />
-    <img src=" https://img.shields.io/badge/GitLab-C32E28?logo=gitlab" />
-    <img src=" https://img.shields.io/badge/Trivy-006DB7?logo=trivy" />
-  </div>  
-
-</div>  
 
 
+  
 
 </div>  
 
