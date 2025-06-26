@@ -79,16 +79,6 @@
 </a>
 
 
-<!-- GitHub Streak -->
-<a href="https://github.com/z4ng1ew ">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=z4ng1ew&theme=dark" alt="GitHub Streak" />
-</a>
-
-<!-- GitHub Overall Stats -->
-<a href=" https://github.com/z4ng1ew ">
-  <img src="https://github-readme-stats.vercel.app/api?username=z4ng1ew&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
-</a>
-
 
 <!-- Статистика профиля -->
 <a href=" https://github.com/z4ng1ew ">
