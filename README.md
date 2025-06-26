@@ -74,6 +74,20 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=z4ng1ew&show_icons=true&theme=react&count_private=true&hide=contribs&border_radius=10&custom_title=GitHub+Stats" alt="GitHub Stats"/>
   </a>
 
+<a href="https://github.com/z4ng1ew ">
+  <img src="https://github-readme-stats.vercel.app/api?username=z4ng1ew&show_icons=true&theme=dark&include_all_commits=true" alt="GitHub Stats" />
+</a>
+
+
+<!-- GitHub Streak -->
+<a href="https://github.com/z4ng1ew ">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=z4ng1ew&theme=dark" alt="GitHub Streak" />
+</a>
+
+<!-- GitHub Overall Stats -->
+<a href=" https://github.com/z4ng1ew ">
+  <img src="https://github-readme-stats.vercel.app/api?username=z4ng1ew&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
+</a>
 
 
 <a href=" https://github.com/z4ng1ew ">
