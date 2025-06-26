@@ -64,65 +64,29 @@
 
 
 
+📊 Моя статистика на GitHub 
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">  
 
-<!-- GitHub Stats Section -->
-<h2 align="center">⚡ Статистика GitHub ⚡</h2>
+  <!-- GitHub Streak -->  
+  <a href="https://github.com/z4ng1ew ">  
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=z4ng1ew&theme=dracula" alt="GitHub Streak"/>  
+  </a>  
 
-<div align="center">
+  <!-- GitHub Stats -->  
+  <a href=" https://github.com/z4ng1ew ">  
+    <img src="https://github-readme-stats.vercel.app/api?username=z4ng1ew&theme=dracula&show_icons=true" alt="GitHub Stats"/>  
+  </a>  
 
-  <a href="https://github.com/z4ng1ew">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=z4ng1ew&show_icons=true&theme=react&count_private=true&hide=contribs&border_radius=10&custom_title=GitHub+Stats" alt="GitHub Stats"/>
-  </a>
+  <!-- Top Languages -->  
+  <a href=" https://github.com/z4ng1ew ">  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z4ng1ew&theme=dracula&layout=compact&hide=html,shell&langs_count=8" alt="Top Languages"/>  
+  </a>  
 
+  <!-- Activity Calendar -->  
+  <a href=" https://github.com/z4ng1ew ">  
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=z4ng1ew&theme=dracula&hide_border=true" alt="GitHub Activity"/>  
+  </a>  
 
-
-
-
-</a>
-
-
-<!-- Статистика профиля -->
-<a href=" https://github.com/z4ng1ew ">
-  <img src="https://github-readme-stats.vercel.app/api?username=z4ng1ew&theme=dracula&show_icons=true" alt="GitHub Stats" />
-</a>
-
-
-
-
-<a href=" https://github.com/z4ng1ew ">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=z4ng1ew&theme=nightowl&hide_border=true" alt="GitHub Activity" />
-</a>
-
-
-</div>
-
-<div align="center">
-  <a href="https://github.com/z4ng1ew">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z4ng1ew&hide=html&layout=compact&theme=react&langs_count=8&border_radius=10&size_weight=0.5&count_weight=0.5&custom_title=Топ+языки"/>
-  </a>
-</div>
-
+</div>  
 
 ---
-
-
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=z4ng1ew&theme=dark)]( https://github.com/z4ng1ew )
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=z4ng1ew&theme=react&fire=25)]( https://github.com/z4ng1ew )
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=z4ng1ew&show_icons=true&theme=dracula)]( https://github.com/z4ng1ew )
-
-
-[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=z4ng1ew&theme=nightowl)]( https://github.com/z4ng1ew )
-
-
-## Моя статистика на GitHub
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=z4ng1ew&theme=dark)]( https://github.com/z4ng1ew )
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=z4ng1ew&show_icons=true&theme=dracula)]( https://github.com/z4ng1ew )
-
-[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=z4ng1ew&theme=nightowl)]( https://github.com/z4ng1ew )
