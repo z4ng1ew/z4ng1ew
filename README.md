@@ -108,3 +108,21 @@
 
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=z4ng1ew&theme=dark)]( https://github.com/z4ng1ew )
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=z4ng1ew&theme=react&fire=25)]( https://github.com/z4ng1ew )
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=z4ng1ew&show_icons=true&theme=dracula)]( https://github.com/z4ng1ew )
+
+
+[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=z4ng1ew&theme=nightowl)]( https://github.com/z4ng1ew )
+
+
+## Моя статистика на GitHub
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=z4ng1ew&theme=dark)]( https://github.com/z4ng1ew )
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=z4ng1ew&show_icons=true&theme=dracula)]( https://github.com/z4ng1ew )
+
+[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=z4ng1ew&theme=nightowl)]( https://github.com/z4ng1ew )
