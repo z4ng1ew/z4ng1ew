@@ -77,7 +77,19 @@
   <a href="https://github.com/z4ng1ew">
   <img height="180em" src="https://streak-stats.demolab.com?user=z4ng1ew&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
   </a>
-  
+
+
+
+  <a href=" https://github.com/z4ng1ew ">
+  <img src="https://github-readme-stats.vercel.app/api?username=z4ng1ew&show_icons=true&theme=dark&include_all_commits=true" alt="GitHub Stats" />
+</a>
+
+
+<a href=" https://github.com/z4ng1ew ">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=z4ng1ew&theme=nightowl&hide_border=true" alt="GitHub Activity" />
+</a>
+
+
 </div>
 
 <div align="center">
