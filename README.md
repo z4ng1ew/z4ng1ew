@@ -67,11 +67,6 @@
 📊 Моя статистика на GitHub 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">  
 
-  <!-- GitHub Streak -->  
-  <a href="https://github.com/z4ng1ew ">  
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=z4ng1ew&theme=dracula" alt="GitHub Streak"/>  
-  </a>  
-
   <!-- GitHub Stats -->  
   <a href=" https://github.com/z4ng1ew ">  
     <img src="https://github-readme-stats.vercel.app/api?username=z4ng1ew&theme=dracula&show_icons=true" alt="GitHub Stats"/>  
