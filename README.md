@@ -90,6 +90,17 @@
 </a>
 
 
+<!-- Статистика профиля -->
+<a href=" https://github.com/z4ng1ew ">
+  <img src="https://github-readme-stats.vercel.app/api?username=z4ng1ew&theme=dracula&show_icons=true" alt="GitHub Stats" />
+</a>
+
+<!-- Статистика по активности (Streak) -->
+<a href=" https://github.com/z4ng1ew ">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=z4ng1ew&theme=dark" alt="GitHub Streak" />
+</a>
+
+
 <a href=" https://github.com/z4ng1ew ">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=z4ng1ew&theme=nightowl&hide_border=true" alt="GitHub Activity" />
 </a>
