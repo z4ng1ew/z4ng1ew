@@ -45,7 +45,7 @@
 #### 🔍 [Trivy + Bandit + Flask + TruffleHog](https://github.com/z4ng1ew/Trivy-Flask-App-With-Bandit-TruffleHog)
 > Учебное приложение для Flask с Trivy, TruffleHog и Bandit: безопасная разработка и CI/CD сканирование.
 
-#### 🛡️ [Devsecops-zap-scanner](https://github.com/z4ng1ew/Devsecops-zap-scanner) 
+#### 🛡️ [OWASP-ZAP-scann](https://github.com/z4ng1ew/OWASP-ZAP-scann) 
 > Автоматизированное тестирование безопасности веб-приложения на Flask с использованием OWASP ZAP в headless-режиме, с отчётами в HTML, в рамках практик DevSecOps.
 
 #### 🔒 [SecureOps](https://github.com/z4ng1ew/SecureOps)
