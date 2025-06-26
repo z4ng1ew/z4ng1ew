@@ -54,7 +54,7 @@
 #### 🐳 [Docker-Nginx](https://github.com/z4ng1ew/Docker-Nginx)
 > Проект по созданию и настройке контейнера Docker с nginx и мини-сервером на базе FastCGI, включая анализ безопасности с использованием Dockle и настройку нескольких контейнеров с помощью Docker Compose.
 
-#### [aflplusplus-fuzzing-demo](https://github.com/z4ng1ew/aflplusplus-fuzzing-demo)
+#### 🐞 [aflplusplus-fuzzing-demo](https://github.com/z4ng1ew/aflplusplus-fuzzing-demo)
 > Демонстрационный проект, демонстрирующий практическое fuzz-тестирование с использованием AFL++ для обнаружения уязвимостей в программах на языке C.
 
 #### 🐚 [Simple Bash Utils](https://github.com/z4ng1ew/C3_SimpleBashUtils-3-develop-src)
