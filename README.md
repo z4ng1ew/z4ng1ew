@@ -35,9 +35,8 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,gitlab,github,react,nodejs,js,ts,c,python,java,kotlin,postgres,mysql,bash,nginx" /> 
-![Jenkins](https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white)
 </div>
-
+![Jenkins](https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ---
 
