@@ -42,6 +42,9 @@
 
 ### 🛠️ Мои проекты
 
+#### ⎈ [Kubernetes + Helm + Nginx + Deployment + Public](https://github.com/z4ng1ew/Kubernetes-Helm-Nginx-Deployment)
+> Проект демонстрирует развёртывание приложения nginx в Kubernetes с использованием чартов Helm.
+
 #### 🚀 [Jenkins + Git  + pipeline +  CI/CD + DevOps ](https://github.com/z4ng1ew/Jenkins_CI-CD) 
 > Проект демонстрирует настройку заданий Jenkins, интеграцию с Git и создание конвейера для рабочих процессов DevOps.
 
