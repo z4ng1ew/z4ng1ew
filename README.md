@@ -42,7 +42,8 @@
 
 ### 🛠️ Мои проекты
 
-#### 🚀 [Jenkins + Git  + pipeline +  CI/CD + DevOps ](https://github.com/z4ng1ew/Jenkins_CI-CD) Shows Jenkins Job setup, Git integration, and pipeline creation for DevOps workflows.
+#### 🚀 [Jenkins + Git  + pipeline +  CI/CD + DevOps ](https://github.com/z4ng1ew/Jenkins_CI-CD) 
+> Shows Jenkins Job setup, Git integration, and pipeline creation for DevOps workflows.
 
 #### 🔍 [Trivy + Bandit + Flask + TruffleHog](https://github.com/z4ng1ew/Trivy-Flask-App-With-Bandit-TruffleHog)
 > Учебное приложение для Flask с Trivy, TruffleHog и Bandit: безопасная разработка и CI/CD сканирование.
