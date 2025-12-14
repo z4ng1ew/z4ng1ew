@@ -38,7 +38,27 @@
 <img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,linux,gitlab,github,react,nodejs,js,ts,c,python,java,kotlin,postgres,mysql,bash,nginx" />
 
 
+```
 
+
+
+Мой профиль на платформе для белых-хакеров (Ник - C0deBre4ker):
+
+1) Root-me:
+https://www.root-me.org/C0deBre4ker?lang=fr#ab47c9ae0213499c3977225d6757616e
+
+2) Ссылка на мой аккаунт в Git Hub: https://github.com/z4ng1ew?tab=repositories
+
+3) Git Lab:
+https://gitlab.com/z4ng1ew
+
+4) Ссылка на мой аккаунт в DockerHub:
+https://hub.docker.com/u/zangievmovsar
+
+5) Мой профиль на kaggle, где я зучаю данные для моделей ML/AI:
+https://www.kaggle.com/nyzprocent 
+
+```
 ---
 
 ### 🛠️ Мои проекты
