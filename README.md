@@ -47,15 +47,13 @@
 1) Root-me:
 https://www.root-me.org/C0deBre4ker?lang=fr#ab47c9ae0213499c3977225d6757616e
 
-2) Ссылка на мой аккаунт в Git Hub: https://github.com/z4ng1ew?tab=repositories
-
-3) Git Lab:
+2) Git Lab:
 https://gitlab.com/z4ng1ew
 
-4) Ссылка на мой аккаунт в DockerHub:
+3) Ссылка на мой аккаунт в DockerHub:
 https://hub.docker.com/u/zangievmovsar
 
-5) Мой профиль на kaggle, где я зучаю данные для моделей ML/AI:
+4) Мой профиль на kaggle, где я зучаю данные для моделей ML/AI:
 https://www.kaggle.com/nyzprocent 
 
 ```
