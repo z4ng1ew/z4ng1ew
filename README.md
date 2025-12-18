@@ -54,7 +54,9 @@ https://gitlab.com/z4ng1ew
 https://hub.docker.com/u/zangievmovsar
 
 4) Мой профиль на kaggle, где я зучаю данные для моделей ML/AI:
-https://www.kaggle.com/nyzprocent 
+https://www.kaggle.com/nyzprocent
+
+5) Saturn Cloud : https://app.community.saturnenterprise.io/dash/o/Knyaz-Procent
 
 ```
 ---
