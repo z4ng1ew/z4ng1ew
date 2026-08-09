@@ -54,6 +54,8 @@ https://www.kaggle.com/nyzprocent
 
 5) Saturn Cloud : https://app.community.saturnenterprise.io/dash/o/Knyaz-Procent
 
+6) Huggingface: https://huggingface.co/V1ncy
+
 ```
 ---
 
