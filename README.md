@@ -82,8 +82,7 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
-  <!-- GitHub Stats Card (anuraghazra) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=z4ng1ew&theme=dracula&show_icons=true" alt="GitHub Stats" />
+
 
   <!-- Top Languages Card (anuraghazra) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z4ng1ew&theme=dracula&layout=compact&hide=html,shell&langs_count=8" alt="Top Languages" />
