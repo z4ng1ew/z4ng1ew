@@ -80,10 +80,27 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
-![GitHub followers](https://img.shields.io/github/followers/z4ng1ew?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/z4ng1ew?style=social)
-![Profile views](https://komarev.com/ghpvc/?username=z4ng1ew&color=blue)
+  <!-- GitHub Stats Card (anuraghazra) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=z4ng1ew&theme=dracula&show_icons=true" alt="GitHub Stats" />
+
+  <!-- Top Languages Card (anuraghazra) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z4ng1ew&theme=dracula&layout=compact&hide=html,shell&langs_count=8" alt="Top Languages" />
+
+  <!-- Top Language Badge (shields.io) -->
+  <img src="https://img.shields.io/github/languages/top/z4ng1ew/z4ng1ew" alt="Top Language" />
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=z4ng1ew&theme=dracula" alt="GitHub Streak" />
+
+  <!-- Profile Summary Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=z4ng1ew&theme=dracula" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=z4ng1ew&theme=dracula" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=z4ng1ew&theme=dracula" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=z4ng1ew&theme=dracula" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=z4ng1ew&theme=dracula" alt="Productive Time" />
 
 </div>
+
+---
