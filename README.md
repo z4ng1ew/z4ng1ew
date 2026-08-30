@@ -88,7 +88,11 @@
   <!-- Top Languages Card (anuraghazra) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z4ng1ew&theme=dracula&layout=compact&hide=html,shell&langs_count=8" alt="Top Languages" />
 
+  <!-- Top Language Badge (shields.io) -->
+  <img src="https://img.shields.io/github/languages/top/z4ng1ew/z4ng1ew" alt="Top Language" />
 
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=z4ng1ew&theme=dracula" alt="GitHub Streak" />
 
   <!-- Profile Summary Cards -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=z4ng1ew&theme=dracula" alt="Profile Details" />
