@@ -84,9 +84,6 @@
 
 
 
-  <!-- Top Languages Card (anuraghazra) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z4ng1ew&theme=dracula&layout=compact&hide=html,shell&langs_count=8" alt="Top Languages" />
-
   <!-- Top Language Badge (shields.io) -->
   <img src="https://img.shields.io/github/languages/top/z4ng1ew/z4ng1ew" alt="Top Language" />
 
