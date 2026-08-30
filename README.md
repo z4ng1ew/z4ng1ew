@@ -17,7 +17,7 @@
 <div align="center">
 
 + 🎯 DevSecOps engineer with experience as a full-stack developer, security specialist, and legal education.
-+ 💼 Working as a Lead Information Security Specialist at **Rosselkhozbank**  
++ 💼 Working as a Lead Information Security Specialist at **UniCredit**  
 + 🔐 Working in the field of secure development, automation, CI/CD, and Linux.  
 + 📦 Using Docker, Kubernetes, GitLab CI/CD, Trivy, Bandit, Fail2Ban, MaxPatrol SIEM  
 + 🎓 Engaged in pet projects and participating in CTF competitions.
