@@ -80,21 +80,10 @@
 
 ### 📊 GitHub Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<div align="center">
 
-  <!-- GitHub Stats -->
-  <a href="https://github.com/z4ng1ew">
-    <img src="https://github-readme-stats.vercel.app/api?username=z4ng1ew&theme=dracula&show_icons=true" alt="GitHub Stats"/>
-  </a>
-
-  <!-- Top Languages -->
-  <a href="https://github.com/z4ng1ew">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z4ng1ew&theme=dracula&layout=compact&hide=html,shell&langs_count=8" alt="Top Languages"/>
-  </a>
-
-  <!-- Activity Calendar -->
-  <a href="https://github.com/z4ng1ew">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=z4ng1ew&theme=dracula&hide_border=true" alt="GitHub Activity"/>
-  </a>
+![GitHub followers](https://img.shields.io/github/followers/z4ng1ew?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/z4ng1ew?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=z4ng1ew&color=blue)
 
 </div>
