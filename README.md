@@ -84,8 +84,6 @@
 
 
 
-  <!-- Top Language Badge (shields.io) -->
-  <img src="https://img.shields.io/github/languages/top/z4ng1ew/z4ng1ew" alt="Top Language" />
 
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=z4ng1ew&theme=dracula" alt="GitHub Streak" />
