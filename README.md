@@ -89,8 +89,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z4ng1ew&theme=dracula&layout=compact&hide=html,shell&langs_count=8" alt="Top Languages" />
 
 
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=z4ng1ew&theme=dracula" alt="GitHub Streak" />
 
   <!-- Profile Summary Cards -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=z4ng1ew&theme=dracula" alt="Profile Details" />
