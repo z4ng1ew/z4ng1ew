@@ -1,5 +1,4 @@
-```html
-<!-- Visitor Counter -->
+<!-- Visitor counter -->
 <p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=z4ng1ew.z4ng1ew" alt="visitors"/>
 </p>
@@ -15,81 +14,58 @@
 
 ### 🚀 About Me
 
-
 <div align="center">
 
-+ 🎯 DevSecOps Engineer with full-stack development experience, information security expertise, and a law degree.
-+ 💼 Currently working as a Lead Information Security Specialist at **Russian Agricultural Bank (RSHB)**.
-+ 🔐 Focused on secure software development, automation, CI/CD, and Linux administration.
-+ 📦 Tech stack includes Docker, Kubernetes, GitLab CI/CD, Trivy, Bandit, Fail2Ban, and MaxPatrol SIEM.
-+ 🎓 Actively working on pet projects and participating in CTF competitions.
++ 🎯 DevSecOps engineer with experience as a full-stack developer, security specialist, and legal education.
++ 💼 Working as a Lead Information Security Specialist at **Rosselkhozbank**  
++ 🔐 Working in the field of secure development, automation, CI/CD, and Linux.  
++ 📦 Using Docker, Kubernetes, GitLab CI/CD, Trivy, Bandit, Fail2Ban, MaxPatrol SIEM  
++ 🎓 Engaged in pet projects and participating in CTF competitions.
 </div>
 
 ---
 
-### 🧰 Skills & Technologies
+### 🧰 Skills and Technologies
 
 <img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,linux,gitlab,github,react,nodejs,js,ts,c,python,java,kotlin,postgres,mysql,bash,nginx" />
-
-```
-
-My profiles on white-hat hacking and developer platforms (Nickname - C0deBre4ker):
-
-1) Root-me:
-https://www.root-me.org/C0deBre4ker?lang=fr#ab47c9ae0213499c3977225d6757616e
-
-2) GitLab:
-https://gitlab.com/z4ng1ew
-
-3) DockerHub Profile:
-https://hub.docker.com/u/zangievmovsar
-
-4) Kaggle (ML/AI Data Science):
-https://www.kaggle.com/nyzprocent
-
-5) Saturn Cloud: https://app.community.saturnenterprise.io/dash/o/Knyaz-Procent
-
-6) Hugging Face: https://huggingface.co/V1ncy
-
-```
 
 ---
 
 ### 🛠️ My Projects
 
 #### ⎈ [Kubernetes + Helm + Nginx + Deployment + Public](https://github.com/z4ng1ew/Kubernetes-Helm-Nginx-Deployment)
-> Demonstrates deploying an Nginx application in Kubernetes using Helm charts.
+> Project demonstrates deploying an nginx application in Kubernetes using Helm charts.
 
-#### 🚀 [Jenkins + Git + Pipeline + CI/CD + DevOps](https://github.com/z4ng1ew/Jenkins_CI-CD) 
-> Showcases Jenkins job configuration, Git integration, and pipeline creation for DevOps workflows.
+#### 🚀 [Jenkins + Git + pipeline + CI/CD + DevOps](https://github.com/z4ng1ew/Jenkins_CI-CD) 
+> Project demonstrates setting up Jenkins jobs, integrating with Git, and creating a pipeline for DevOps workflows.
 
 #### 🔍 [Trivy + Bandit + Flask + TruffleHog](https://github.com/z4ng1ew/Trivy-Flask-App-With-Bandit-TruffleHog)
-> A sample Flask application integrating Trivy, TruffleHog, and Bandit for secure development and CI/CD scanning.
+> Educational Flask application with Trivy, TruffleHog, and Bandit: secure development and CI/CD scanning.
 
 #### 🛡️ [OWASP-ZAP-scann](https://github.com/z4ng1ew/OWASP-ZAP-scann) 
-> Automated security testing for a Flask web app using OWASP ZAP in headless mode with HTML reporting, following DevSecOps practices.
+> Automated security testing of a Flask web application using OWASP ZAP in headless mode, with HTML reports, within DevSecOps practices.
 
 #### 🔒 [SecureOps](https://github.com/z4ng1ew/SecureOps)
-> Microservices in Docker with GitHub Actions CI/CD pipelines, secured via UFW, Fail2Ban, HTTPS, and automated vulnerability scanning.
+> Microservices in Docker, CI/CD pipelines on GitHub Actions, protection with UFW, Fail2Ban, HTTPS, and automatic vulnerability scanning.
 
 #### ☕ [Java-fuzz-sca-demo](https://github.com/z4ng1ew/java-fuzz-sca-demo)
-> Java fuzz testing project with Maven builds, BOM generation, and automated SCA analysis via Dependency-Track. Includes Docker Compose setup, making it a ready-to-use DevSecOps lab for learning secure development and early-stage vulnerability detection.
+> Project with fuzz testing in Java, Maven build, BOM generation, and automated SCA analysis using Dependency-Track. Docker Compose setup makes the project ready for DevSecOps. An ideal lab for learning secure development and early vulnerability detection.
 
 #### 🐳 [Docker-Nginx](https://github.com/z4ng1ew/Docker-Nginx)
-> Docker container setup for Nginx with a FastCGI-based mini-server, including security analysis via Dockle and multi-container orchestration with Docker Compose.
+> Project for creating and configuring a Docker container with nginx and a mini-server based on FastCGI, including security analysis with Dockle and setting up multiple containers using Docker Compose.
 
 #### 🐞 [Afl++-fuzzing-demo](https://github.com/z4ng1ew/aflplusplus-fuzzing-demo)
 > Practical fuzz testing using AFL++ to discover vulnerabilities in C programs.
 
 #### 🐚 [Simple Bash Utils](https://github.com/z4ng1ew/Utilits_Cat_Grep_2.0)
-> Custom Bash utilities written in C from scratch. Includes grep/cat analogs, test coverage, CI integration, and Valgrind memory analysis.
+> Bash utilities implemented in C from scratch. Analogues of grep, cat, and others, with test coverage, CI, and valgrind analysis.
 
 #### 🔣 [String.h](https://github.com/z4ng1ew/Final_vers_str)
-> Custom implementation of the string.h library in C, featuring extended sprintf/sscanf formatting and additional string manipulation functions. Deepens understanding of pointers, string handling, formatting, and POSIX standards.
+> Implementation of a custom string.h library in C, including extended formatting functions sprintf and sscanf, as well as additional string handling functions. The project helps deepen understanding of strings, pointers, formatting, and POSIX standards.
 
 ---
 
-📊 My GitHub Stats 
+📊 My GitHub Statistics
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">  
 
   <!-- GitHub Stats -->  
@@ -110,3 +86,21 @@ https://www.kaggle.com/nyzprocent
 </div>  
 
 ---
+
+My profile on the platform for white-hat hackers (Nickname - C0deBre4ker):
+
+1) Root-me:
+https://www.root-me.org/C0deBre4ker?lang=fr#ab47c9ae0213499c3977225d6757616e
+
+2) GitLab:
+https://gitlab.com/z4ng1ew
+
+3) My DockerHub account:
+https://hub.docker.com/u/zangievmovsar
+
+4) My Kaggle profile, where I study data for ML/AI models:
+https://www.kaggle.com/nyzprocent
+
+5) Saturn Cloud: https://app.community.saturnenterprise.io/dash/o/Knyaz-Procent
+
+6) Huggingface: https://huggingface.co/V1ncy
