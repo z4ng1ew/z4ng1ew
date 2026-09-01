@@ -17,7 +17,7 @@
 <div align="center">
 
 + 🎯 DevSecOps engineer with a background in full-stack development, information security, and law.
-+ 💼 Lead Information Security Specialist at **UniCredit**
++ 💼 Lead Information Security Specialist
 + 🔐 Specializing in secure development, automation, CI/CD, and Linux hardening.
 + 📦 Tech stack: Docker, Kubernetes, GitLab CI/CD, Trivy, Bandit, Fail2Ban, MaxPatrol SIEM
 + 🎓 Building pet projects and competing in CTFs
