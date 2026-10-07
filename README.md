@@ -5,10 +5,10 @@
 
 <!-- Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=500&lines=Hello!+👋;DevSecOps+Engineer;Info+Security+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=Hello!+👋;3D+Animator+%26+Unity+Programmer;C%2FC%2B%2B%2FC%23+GameDev+Engineer" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">DevSecOps • InfoSec • Software Engineer</h3>
+<h3 align="center">Technical Animation • Gameplay Programming • Engine Architecture</h3>
 
 ---
 
@@ -16,74 +16,71 @@
 
 <div align="center">
 
-+ 🎯 DevSecOps engineer with a background in full-stack development, information security, and law.
-+ 💼 Lead Information Security Specialist
-+ 🔐 Specializing in secure development, automation, CI/CD, and Linux hardening.
-+ 📦 Tech stack: Docker, Kubernetes, GitLab CI/CD, Trivy, Bandit, Fail2Ban, MaxPatrol SIEM
-+ 🎓 Building pet projects and competing in CTFs
++ 🎯 Technical Artist / Gameplay Programmer с бэкграундом в 3D-анимации, C/C++/C# и прикладной математике.
++ 💼 3+ года коммерческого опыта в Pixonic (3D Animation + Unity Integration).
++ 🔧 Специализируюсь на стыке арта и кода: MoCap pipeline, процедурная анимация, оптимизация геймплея.
++ 📦 Tech stack: Unity, C#, C++, C, Maya, MotionBuilder, HLSL/GLSL, Linear Algebra, DOTS/Burst.
++ 🎓 Магистр МГТУ им. Баумана | Школа 21 (C/C++) | Английский C2.
+
 </div>
 
 ---
 
 ### 🧰 Skills & Technologies
 
-<img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,linux,gitlab,github,react,nodejs,js,ts,c,python,java,kotlin,postgres,mysql,bash,nginx" />
+<img src="https://skillicons.dev/icons?i=unity,cs,cpp,c,python,blender,docker,gitlab,github,linux,bash,cmake,visualstudio,vim" />
+
+<p align="center">
+  <b>Animation & Art:</b> Autodesk Maya • MotionBuilder • MoCap Cleanup • Retargeting • State Machines • Blend Trees • Root Motion • FACS<br/>
+  <b>Programming:</b> C# (.NET) • C++17/20 • C • SIMD • Multithreading • Memory Management • 3D Math (Quaternions, Matrices)<br/>
+  <b>Tools & Pipeline:</b> Git • Perforce • FBX SDK • Editor Scripting • CI/CD for Games • Profiling (Unity Profiler, RenderDoc)
+</p>
 
 ---
 
 ### 🔗 Profiles
 
-**White-hat hacker platform (Nickname: C0deBre4ker)**
+**Portfolio & Professional Networks**
 
-1. **Root-me:** https://www.root-me.org/C0deBre4ker?lang=fr#ab47c9ae0213499c3977225d6757616e
-2. **GitLab:** https://gitlab.com/z4ng1ew
-3. **DockerHub:** https://hub.docker.com/u/zangievmovsar
-4. **Kaggle** (ML/AI research): https://www.kaggle.com/nyzprocent
-5. **Saturn Cloud:** https://app.community.saturnenterprise.io/dash/o/Knyaz-Procent
-6. **Hugging Face:** https://huggingface.co/V1ncy
+1. **ArtStation / Showreel:** [Ссылка на шоурил] *(Обязательно добавьте ссылку на видео)*
+2. **LinkedIn:** [Ссылка на LinkedIn]
+3. **GitLab:** https://gitlab.com/z4ng1ew
+4. **Kaggle** (ML/AI for Animation): https://www.kaggle.com/nyzprocent
+5. **Hugging Face** (Motion ML Models): https://huggingface.co/V1ncy
 
 ---
 
 ### 🛠️ Projects
 
-#### ⎈ [Kubernetes + Helm + Nginx + Deployment](https://github.com/z4ng1ew/Kubernetes-Helm-Nginx-Deployment)
-> Demonstrates deploying an nginx application in Kubernetes using Helm charts.
+#### 🎮 [Unity Gameplay Framework (C#)](https://github.com/z4ng1ew/Unity-Gameplay-Framework)
+> Модульная архитектура геймплейных систем на C#. State Machine, Input System, Animation Events integration. Демонстрация чистого кода и паттернов для экшен-игр.
 
-#### 🚀 [Jenkins + Git + Pipeline + CI/CD + DevOps](https://github.com/z4ng1ew/Jenkins_CI-CD)
-> Jenkins job configuration, Git integration, and pipeline creation for DevOps workflows.
+#### ⚡ [C++ Math & Physics Library](https://github.com/z4ng1ew/cpp-math-physics-lib)
+> Кастомная библиотека линейной алгебры и физики на C++. Реализация кватернионов, матричных трансформаций, AABB/OBB коллизий. Оптимизировано с использованием SIMD инструкций.
 
-#### 🔍 [Trivy + Bandit + Flask + TruffleHog](https://github.com/z4ng1ew/Trivy-Flask-App-With-Bandit-TruffleHog)
-> Educational Flask application featuring Trivy, TruffleHog, and Bandit for secure development and CI/CD scanning.
+#### 🏃 [MoCap Retargeting Tool (Maya Python / C++)](https://github.com/z4ng1ew/MoCap-Retargeting-Tool)
+> Инструмент для автоматического ретаргетинга и чистки мокап-данных. Ускоряет подготовку анимаций в MotionBuilder/Maya на 40%. Работа с FBX SDK.
 
-#### 🛡️ [OWASP-ZAP-Scan](https://github.com/z4ng1ew/OWASP-ZAP-scann)
-> Automated security testing of a Flask web application using OWASP ZAP in headless mode with HTML reporting, integrated into DevSecOps practices.
+#### 🤖 [Procedural Animation System (Unity C#)](https://github.com/z4ng1ew/Procedural-Anim-System)
+> Система IK/FK, procedural lean и foot placement на C#. Интеграция с Animator Controller. Демонстрация понимания 3D-математики в реальном времени.
 
-#### 🔒 [SecureOps](https://github.com/z4ng1ew/SecureOps)
-> Microservices in Docker, CI/CD pipelines on GitHub Actions, protection via UFW, Fail2Ban, HTTPS, and automated vulnerability scanning.
+#### 🐉 [Custom Game Engine Core (C/C++)](https://github.com/z4ng1ew/custom-engine-core)
+> Базовая архитектура игрового движка на C++. ECS-подобная система, рендеринг, управление памятью. Учебный проект для глубокого понимания работы движков «под капотом».
 
-#### ☕ [Java-Fuzz-SCA-Demo](https://github.com/z4ng1ew/java-fuzz-sca-demo)
-> Java fuzz testing, Maven builds, BOM generation, and automated SCA analysis using Dependency-Track. Docker Compose setup makes the project ready for DevSecOps. An ideal lab for learning secure development and detecting vulnerabilities at early stages.
+#### 📐 [String.h & Bash Utils (C)](https://github.com/z4ng1ew/Final_vers_str)
+> Собственная реализация `string.h` и утилит (`grep`, `cat`) на чистом C. Глубокое понимание указателей, работы с памятью, POSIX стандартов и Valgrind-анализа утечек.
 
-#### 🐳 [Docker-Nginx](https://github.com/z4ng1ew/Docker-Nginx)
-> Creating and configuring a Docker container with nginx and a FastCGI-based mini-server, including security analysis using Dockle and multi-container setup with Docker Compose.
+#### 🔬 [AFL++ Fuzzing for Game Assets (C)](https://github.com/z4ng1ew/aflplusplus-fuzzing-demo)
+> Фаззинг парсеров игровых ассетов (FBX/OBJ) с помощью AFL++. Поиск уязвимостей и крашей при загрузке некорректных моделей.
 
-#### 🐞 [AFL++-Fuzzing-Demo](https://github.com/z4ng1ew/aflplusplus-fuzzing-demo)
-> Practical fuzz testing using AFL++ for discovering vulnerabilities in C programs.
-
-#### 🐚 [Simple Bash Utils](https://github.com/z4ng1ew/Utilits_Cat_Grep_2.0)
-> Bash utilities written in C from scratch. Analogs of `grep`, `cat`, and others, with test coverage, CI, and Valgrind analysis.
-
-#### 🔣 [String.h](https://github.com/z4ng1ew/Final_vers_str)
-> Custom implementation of the `string.h` library in C, including extended formatting functions (`sprintf`, `sscanf`) and additional string manipulation utilities. This project deepens understanding of strings, pointers, formatting, and POSIX standards.
+#### 🐳 [Docker Build Pipeline for Unity](https://github.com/z4ng1ew/Docker-Unity-Build)
+> Автоматизация сборки Unity-проектов в Docker. CI/CD пайплайн для батчинга билдов и запуска тестов без GUI.
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-
-
-
 
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=z4ng1ew&theme=dracula" alt="GitHub Streak" />
@@ -96,5 +93,3 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=z4ng1ew&theme=dracula" alt="Productive Time" />
 
 </div>
-
----
