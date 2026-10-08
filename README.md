@@ -1,95 +1,73 @@
-<!-- Visitor Counter -->
 <p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=z4ng1ew.z4ng1ew" alt="visitors"/>
 </p>
 
-<!-- Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=Hello!+👋;3D+Animator+%26+Unity+Programmer;C%2FC%2B%2B%2FC%23+GameDev+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=650&lines=Hello!+👋;Technical+Animator;Animation+%E2%80%A2+Unity+%E2%80%A2+Python+%E2%80%A2+C" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Technical Animation • Gameplay Programming • Engine Architecture</h3>
+<h3 align="center">Technical Animation • Mocap Pipeline • Gameplay Programming</h3>
 
 ---
 
 ### 🚀 About Me
 
-<div align="center">
-
-+ 🎯 Technical Artist / Gameplay Programmer с бэкграундом в 3D-анимации, C/C++/C# и прикладной математике.
-+ 💼 3+ года коммерческого опыта в Pixonic (3D Animation + Unity Integration).
-+ 🔧 Специализируюсь на стыке арта и кода: MoCap pipeline, процедурная анимация, оптимизация геймплея.
-+ 📦 Tech stack: Unity, C#, C++, C, Maya, MotionBuilder, HLSL/GLSL, Linear Algebra, DOTS/Burst.
-+ 🎓 Магистр МГТУ им. Баумана | Школа 21 (C/C++) | Английский C2.
-
-</div>
+- 🎯 Работаю на стыке арта и кода: нахожу, почему движение «не читается», и могу объяснить это и аниматору, и программисту.
+- 💼 3D-аниматор в Pixonic: игровые анимации, чистка mocap, интеграция в Unity (работы под NDA).
+- 🔧 Mocap cleanup, IK-риггинг, motion matching, пайплайн-скрипты на Python для Blender.
+- 🎓 Школа 21 (C/C++, C#, Python) • English C2.
 
 ---
 
-### 🧰 Skills & Technologies
+### 🧰 Skills
 
-<img src="https://skillicons.dev/icons?i=unity,cs,cpp,c,python,blender,docker,gitlab,github,linux,bash,cmake,visualstudio,vim" />
+<img src="https://skillicons.dev/icons?i=unity,cs,cpp,c,python,blender,docker,git,github,linux,bash" />
 
 <p align="center">
-  <b>Animation & Art:</b> Autodesk Maya • MotionBuilder • MoCap Cleanup • Retargeting • State Machines • Blend Trees • Root Motion • FACS<br/>
-  <b>Programming:</b> C# (.NET) • C++17/20 • C • SIMD • Multithreading • Memory Management • 3D Math (Quaternions, Matrices)<br/>
-  <b>Tools & Pipeline:</b> Git • Perforce • FBX SDK • Editor Scripting • CI/CD for Games • Profiling (Unity Profiler, RenderDoc)
+  <b>Animation:</b> Blender • Maya • MotionBuilder • Mocap Cleanup • IK/FK Rigging • Retargeting • Root Motion • Motion Matching<br/>
+  <b>Programming:</b> C# • C/C++ • Python (Blender API, SimPy) • 3D Math<br/>
+  <b>Tools:</b> Git • Docker • Make • Unit Testing
 </p>
 
 ---
 
-### 🔗 Profiles
+### 🎬 Animation
 
-**Portfolio & Professional Networks**
+#### 🦶 [Mocap Cleanup & Polish](https://www.artstation.com/artwork/vzbq3v) — Blender
+> IK-риг на FK-скелете Mixamo, исправление левитации и скольжения стоп, перекат стопы и передача веса. Сравнение до/после.
 
-1. **ArtStation / Showreel:** [Ссылка на шоурил] *(Обязательно добавьте ссылку на видео)*
-2. **LinkedIn:** [Ссылка на LinkedIn]
-3. **GitLab:** https://gitlab.com/z4ng1ew
-4. **Kaggle** (ML/AI for Animation): https://www.kaggle.com/nyzprocent
-5. **Hugging Face** (Motion ML Models): https://huggingface.co/V1ncy
+#### 🏃 [Motion Matching in Unity](https://github.com/z4ng1ew/unity-motion-matching) — Unity, Python
+> Пайплайн Mixamo FBX → BVH на Blender Python, собственная база движений, маппинг скелета, отладка артефактов (вывернутые конечности, отставание от траектории, позы торможения на поворотах).
 
 ---
 
-### 🛠️ Projects
+### 🛠️ Code & Games
 
-#### 🎮 [Unity Gameplay Framework (C#)](https://github.com/z4ng1ew/Unity-Gameplay-Framework)
-> Модульная архитектура геймплейных систем на C#. State Machine, Input System, Animation Events integration. Демонстрация чистого кода и паттернов для экшен-игр.
+#### 🗡️ [Rogue-like Game](https://github.com/z4ng1ew/Rogue-like_game_on_Python) — Python, curses
+> Командный проект: процедурная генерация подземелий, противники с разным поведением, пошаговый бой, сохранение прогресса.
 
-#### ⚡ [C++ Math & Physics Library](https://github.com/z4ng1ew/cpp-math-physics-lib)
-> Кастомная библиотека линейной алгебры и физики на C++. Реализация кватернионов, матричных трансформаций, AABB/OBB коллизий. Оптимизировано с использованием SIMD инструкций.
+#### 🤖 [Ozon Tech «Robozon» Hackathon](https://github.com/z4ng1ew/PySimPy-Docker) — Python, SimPy, Blender
+> Капитан команды. Имитационная модель сортировщика на 1 380 роботов с аналитической валидацией (≤ 3,3 %), процедурная 3D-анимация роботов в Blender через Python API, Docker, Streamlit.
 
-#### 🏃 [MoCap Retargeting Tool (Maya Python / C++)](https://github.com/z4ng1ew/MoCap-Retargeting-Tool)
-> Инструмент для автоматического ретаргетинга и чистки мокап-данных. Ускоряет подготовку анимаций в MotionBuilder/Maya на 40%. Работа с FBX SDK.
+#### 🧩 [Maze Generator & Q-Learning Agent](https://github.com/z4ng1ew/python_maze_generator) — Python
+> Алгоритм Эллера, поиск пути, пещеры на клеточном автомате, RL-агент без готовых библиотек.
 
-#### 🤖 [Procedural Animation System (Unity C#)](https://github.com/z4ng1ew/Procedural-Anim-System)
-> Система IK/FK, procedural lean и foot placement на C#. Интеграция с Animator Controller. Демонстрация понимания 3D-математики в реальном времени.
+#### 📐 [s21_string](https://github.com/z4ng1ew/Final_vers_str) — C
+> Своя реализация `string.h`, `sprintf`/`sscanf`, unit-тесты (Check, gcov).
 
-#### 🐉 [Custom Game Engine Core (C/C++)](https://github.com/z4ng1ew/custom-engine-core)
-> Базовая архитектура игрового движка на C++. ECS-подобная система, рендеринг, управление памятью. Учебный проект для глубокого понимания работы движков «под капотом».
+---
 
-#### 📐 [String.h & Bash Utils (C)](https://github.com/z4ng1ew/Final_vers_str)
-> Собственная реализация `string.h` и утилит (`grep`, `cat`) на чистом C. Глубокое понимание указателей, работы с памятью, POSIX стандартов и Valgrind-анализа утечек.
+### 🔗 Links
 
-#### 🔬 [AFL++ Fuzzing for Game Assets (C)](https://github.com/z4ng1ew/aflplusplus-fuzzing-demo)
-> Фаззинг парсеров игровых ассетов (FBX/OBJ) с помощью AFL++. Поиск уязвимостей и крашей при загрузке некорректных моделей.
-
-#### 🐳 [Docker Build Pipeline for Unity](https://github.com/z4ng1ew/Docker-Unity-Build)
-> Автоматизация сборки Unity-проектов в Docker. CI/CD пайплайн для батчинга билдов и запуска тестов без GUI.
+- 🎨 **ArtStation:** https://www.artstation.com/knyaz_procent
+- 💬 **Telegram:** [@zang1ew](https://t.me/zang1ew)
+- ✉️ **Email:** z4ng1ew@gmail.com
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=z4ng1ew&theme=dracula" alt="GitHub Streak" />
-
-  <!-- Profile Summary Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=z4ng1ew&theme=dracula" alt="Profile Details" />
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=z4ng1ew&theme=dracula" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=z4ng1ew&theme=dracula" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=z4ng1ew&theme=dracula" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=z4ng1ew&theme=dracula" alt="Productive Time" />
-
 </div>
