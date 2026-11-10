@@ -1,4 +1,12 @@
-<h1 align="center">Привет, я Мовсар 👋</h1>
+<!-- Visitor Counter -->
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=z4ng1ew.z4ng1ew" alt="visitors"/>
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=Привет!+Я+Мовсар+👋;Data+Analyst;A%2FB-тесты+·+SQL+·+ML" alt="Typing SVG" />
+</h1>
+
 <h3 align="center">Data Analyst · A/B-тесты · Simulation & What-if анализ · ML</h3>
 
 <p align="center">
@@ -103,14 +111,24 @@
 
 `statsmodels` `pandas` `регрессионный анализ`
 
-### 🗄 [SQL Bootcamp · PostgreSQL от основ до DWH](https://github.com/z4ng1ew/sql-bootcamp)
-Курс SQL в Школе 21 (Сбер): 10+ модулей задач на PostgreSQL.
-- **Оконные функции, CTE, рекурсивные запросы:** задача коммивояжёра (TSP) решена чистым SQL через recursive CTE
-- **OLAP и DWH:** агрегации, витрины, основы хранилищ данных, snapshots
-- **Производительность:** индексы, `EXPLAIN ANALYZE`, уровни изоляции транзакций
-- Функции и процедуры на PL/pgSQL
+### 🗄 SQL Bootcamp · PostgreSQL от основ до DWH
+Курс SQL в Школе 21 (Сбер): 11 проектов на PostgreSQL.
 
-`PostgreSQL` `SQL` `window functions` `recursive CTE` `OLAP` `DWH`
+| # | Проект | Что внутри |
+|---|--------|-----------|
+| 1 | [SQL Basics](https://github.com/z4ng1ew/SQLB1_Basics) | SELECT, фильтрация, сортировка, агрегаты |
+| 2 | [Retrieving Data: Deep Dive](https://github.com/z4ng1ew/SQLB3_Retrieving-data-deep-dive) | JOIN'ы, подзапросы, CTE |
+| 3 | [DML](https://github.com/z4ng1ew/SQLB4_DML) | INSERT / UPDATE / DELETE, модификация данных |
+| 4 | [Snapshots](https://github.com/z4ng1ew/SQLB5_Snapshots) | представления, материализованные представления |
+| 5 | [Indexes](https://github.com/z4ng1ew/SQL_DB_index) | индексы, `EXPLAIN ANALYZE`, оптимизация запросов |
+| 6 | [Integrating Features](https://github.com/z4ng1ew/SQL_Integrating-features) | триггеры, аудит изменений, последовательности |
+| 7 | [OLAP](https://github.com/z4ng1ew/SQL_OLAP) | аналитические запросы, агрегации, **оконные функции** |
+| 8 | [Isolation Levels](https://github.com/z4ng1ew/SQL_Isolation-levels) | транзакции, аномалии, уровни изоляции |
+| 9 | [Functions & Procedures](https://github.com/z4ng1ew/SQL_Functions_and_procs) | функции и процедуры на PL/pgSQL |
+| 10 | [Warehouse Fundamentals](https://github.com/z4ng1ew/SQL_Warehouse-fundamentals) | основы DWH, витрины данных |
+| 11 | [Traveling Salesman Problem](https://github.com/z4ng1ew/SQL_Salesman-problem) | задача коммивояжёра чистым SQL через **recursive CTE** |
+
+`PostgreSQL` `SQL` `window functions` `CTE` `recursive CTE` `OLAP` `DWH` `PL/pgSQL`
 
 ### 🧭 [Maze AI · Reinforcement Learning](https://github.com/z4ng1ew/py-maze-ai)
 Генерация лабиринтов (алгоритм Эллера) и пещер (клеточные автоматы), агент на **Q-learning** ищет кратчайший путь. Десктопный и веб-интерфейс.
@@ -121,9 +139,16 @@
 
 ## 📊 GitHub-статистика
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=z4ng1ew&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z4ng1ew&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=z4ng1ew&theme=dracula" alt="GitHub Streak" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=z4ng1ew&theme=dracula" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=z4ng1ew&theme=dracula" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=z4ng1ew&theme=dracula" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=z4ng1ew&theme=dracula" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=z4ng1ew&theme=dracula" alt="Productive Time" />
+
+</div>
 
 <p align="center"><i>Открыт к предложениям: Data Analyst · Product Analyst · A/B-тесты · Ad-hoc аналитика</i></p>
