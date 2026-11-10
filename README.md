@@ -90,7 +90,7 @@
 
 `TensorFlow` `Keras` `scikit-learn` `EDA` `Computer Vision`
 
-### 💳 [Прогнозирование кредитного дефолта · бинарная классификация](https://github.com/z4ng1ew/credit-default-prediction)
+### 💳 [Прогнозирование кредитного дефолта · бинарная классификация](https://github.com/z4ng1ew/lab4.1-4.3_5.1-5.2_plus_final_certification/tree/develop/4.3%20-%20credit-default-prediction)
 Оценка вероятности дефолта клиента на датасете UCI Credit Card.
 - EDA и feature engineering
 - Работа с **несбалансированными классами**: SMOTE
